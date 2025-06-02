@@ -1,0 +1,4 @@
+repository "My project 2025-06-02_04-35-06/VR_batNv@11270379419213@cloud"
+  path "/"
+    br "/main"
+    co "/main"
